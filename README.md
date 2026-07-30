@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Mazeqi
 
-### 🧑‍💻 About Me
+### ‍💻 About Me
 
 - 🔭 I'm currently working on **anomaly detection with deep learning**
 - 🌱 I'm currently learning **diffusion models & vision transformers**
-- 💻 Tech stack: **Python · PyTorch\**
-- 🎯 Focus: **\Anomaly Detection**
+- 💻 Tech stack: **Python · PyTorch · DINOv2 · DiT**
+- 🎯 Focus: **Anomaly Detection**
 
 ---
 
@@ -25,15 +25,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazeqi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazeqi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazeqi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazeqi&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazeqi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Mazeqi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
