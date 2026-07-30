@@ -25,23 +25,23 @@
 ### 📄 Publications
 
 - **Patch Distance Based Auto-Encoder for Industrial Anomaly Detection**
-  *Zeqi Ma*, Jiaxing Li, Wai Keung Wong
+  **Zeqi Ma**, Jiaxing Li, Wai Keung Wong
   *Expert Systems with Applications*, vol. 270, 126537, 2025
 
 - **MVRec: A General Few-Shot Defect Classification Model Using Multi-View Region-Context**
-  Shuai Lyu, Rongchen Zhang, *Zeqi Ma*, Fangjian Liao, Dongmei Mo, Waikeung Wong
+  Shuai Lyu, Rongchen Zhang, **Zeqi Ma**, Fangjian Liao, Dongmei Mo, Waikeung Wong
   *AAAI 2025*, pp. 5937-5945
 
 - **Lightweight Contrastive Distilled Hashing for Online Cross-Modal Retrieval**
-  Jiaxing Li, Lin Jiang, *Zeqi Ma*, Kaihang Jiang, Xiaozhao Fang, Jie Wen
+  Jiaxing Li, Lin Jiang, **Zeqi Ma**, Kaihang Jiang, Xiaozhao Fang, Jie Wen
   *AAAI 2025*, pp. 4779-4787
 
 - **Integrating Local and Global Correlations with Mamba-Transformer for Multi-Class Anomaly Detection**
-  *Zeqi Ma*, Jiaxing Li, Kaihang Jiang, Wai Keung Wong
+  **Zeqi Ma**, Jiaxing Li, Kaihang Jiang, Wai Keung Wong
   *Knowledge-Based Systems*, vol. 324, 113740, 2025
 
 - **Binary Multi-View Clustering with Spectral Embedding**
-  *Zeqi Ma*, Wai Keung Wong, Li-ying Zhang
+  **Zeqi Ma**, Wai Keung Wong, Li-ying Zhang
   *Neurocomputing*, vol. 557, 126733, 2023
 
 ---
