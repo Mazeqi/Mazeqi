@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Mazeqi
 
-### 🧑‍💻 About Me
+### ‍💻 About Me
 
 - 🔭 I'm currently working on **anomaly detection with deep learning**
 - 🌱 I'm currently learning **diffusion models & vision transformers**
-- 💻 Tech stack: **Python · PyTorch**
-- 🎯 Focus: **Anomaly Detection**
+- 💻 Tech stack: **Python · PyTorch · DINOv2 · DiT**
+- 🎯 Focus: **Unsupervised Multi-class Anomaly Detection**
 
 ---
 
@@ -25,8 +25,40 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazeqi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazeqi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazeqi&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mazeqi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📄 Publications
+
+- **Patch Distance Based Auto-Encoder for Industrial Anomaly Detection**
+  *Zeqi Ma*, Jiaxing Li, Wai Keung Wong
+  *Expert Systems with Applications*, vol. 270, 126537, 2025
+
+- **MVRec: A General Few-Shot Defect Classification Model Using Multi-View Region-Context**
+  Shuai Lyu, Rongchen Zhang, *Zeqi Ma*, Fangjian Liao, Dongmei Mo, Waikeung Wong
+  *AAAI 2025*, pp. 5937-5945
+
+- **Lightweight Contrastive Distilled Hashing for Online Cross-Modal Retrieval**
+  Jiaxing Li, Lin Jiang, *Zeqi Ma*, Kaihang Jiang, Xiaozhao Fang, Jie Wen
+  *AAAI 2025*, pp. 4779-4787
+
+- **Integrating Local and Global Correlations with Mamba-Transformer for Multi-Class Anomaly Detection**
+  *Zeqi Ma*, Jiaxing Li, Kaihang Jiang, Wai Keung Wong
+  *Knowledge-Based Systems*, vol. 324, 113740, 2025
+
+- **Binary Multi-View Clustering with Spectral Embedding**
+  *Zeqi Ma*, Wai Keung Wong, Li-ying Zhang
+  *Neurocomputing*, vol. 557, 126733, 2023
 
 ---
 
