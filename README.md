@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mazeqi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📄 Publications
 
 - **Patch Distance Based Auto-Encoder for Industrial Anomaly Detection**
