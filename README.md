@@ -4,8 +4,8 @@
 
 - 🔭 I'm currently working on **anomaly detection with deep learning**
 - 🌱 I'm currently learning **diffusion models & vision transformers**
-- 💻 Tech stack: **Python · PyTorch · DINOv2 · DiT**
-- 🎯 Focus: **Unsupervised Multi-class Anomaly Detection**
+- 💻 Tech stack: **Python · PyTorch\**
+- 🎯 Focus: **\Anomaly Detection**
 
 ---
 
