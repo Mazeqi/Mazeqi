@@ -3,9 +3,9 @@
 ### ‍💻 About Me
 
 - 🔭 I'm currently working on **anomaly detection with deep learning**
-- 🌱 I'm currently learning **diffusion models & vision transformers**
-- 💻 Tech stack: **Python · PyTorch · DINOv2 · DiT**
-- 🎯 Focus: **Unsupervised Multi-class Anomaly Detection**
+- 🌱 I'm currently learning **diffusion models & vision transformers & LLM**
+- 💻 Tech stack: **Python · PyTorch · LLM · Agent**
+- 🎯 Focus: **Anomaly Detection**
 
 ---
 
