@@ -19,15 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mazeqi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mazeqi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="330" />
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
