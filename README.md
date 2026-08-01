@@ -35,11 +35,11 @@
 
 | # | Paper | Venue | Year | Code |
 |---|-------|-------|:----:|:----:|
-| 1 | **Patch Distance Based Auto-Encoder for Industrial Anomaly Detection**<br/>Zeqi Ma, Jiaxing Li, Wai Keung Wong | Expert Systems with Applications | 2025 | [🔗 Code](https://github.com/Mazeqi/PDAE-ESWA) |
-| 2 | **MVRec: A General Few-Shot Defect Classification Model Using Multi-View Region-Context**<br/>Shuai Lyu, Rongchen Zhang, Zeqi Ma, Fangjian Liao, Dongmei Mo, Waikeung Wong | AAAI 2025 | 2025 | [🔗 Code](https://github.com/ShuaiLYU/MVREC) |
-| 3 | **Lightweight Contrastive Distilled Hashing for Online Cross-Modal Retrieval**<br/>Jiaxing Li, Lin Jiang, Zeqi Ma, Kaihang Jiang, Xiaozhao Fang, Jie Wen | AAAI 2025 | 2025 | — |
-| 4 | **Integrating Local and Global Correlations with Mamba-Transformer for Multi-Class Anomaly Detection**<br/>Zeqi Ma, Jiaxing Li, Kaihang Jiang, Wai Keung Wong | Knowledge-Based Systems | 2025 | [🔗 Code](https://github.com/Mazeqi/MTAD-KBS) |
-| 5 | **Binary Multi-View Clustering with Spectral Embedding**<br/>Zeqi Ma, Wai Keung Wong, Li-ying Zhang | Neurocomputing | 2023 | [🔗 Code](https://github.com/Mazeqi/BMVC_SE-Neurocomputing) |
+| 1 | **Patch Distance Based Auto-Encoder for Industrial Anomaly Detection**<br/>**Zeqi Ma**, Jiaxing Li, Wai Keung Wong | Expert Systems with Applications | 2025 | [🔗 Code](https://github.com/Mazeqi/PDAE-ESWA) |
+| 2 | **MVRec: A General Few-Shot Defect Classification Model Using Multi-View Region-Context**<br/>Shuai Lyu, Rongchen Zhang, **Zeqi Ma**, Fangjian Liao, Dongmei Mo, Waikeung Wong | AAAI 2025 | 2025 | [🔗 Code](https://github.com/ShuaiLYU/MVREC) |
+| 3 | **Lightweight Contrastive Distilled Hashing for Online Cross-Modal Retrieval**<br/>Jiaxing Li, Lin Jiang, **Zeqi Ma**, Kaihang Jiang, Xiaozhao Fang, Jie Wen | AAAI 2025 | 2025 | — |
+| 4 | **Integrating Local and Global Correlations with Mamba-Transformer for Multi-Class Anomaly Detection**<br/>**Zeqi Ma**, Jiaxing Li, Kaihang Jiang, Wai Keung Wong | Knowledge-Based Systems | 2025 | [🔗 Code](https://github.com/Mazeqi/MTAD-KBS) |
+| 5 | **Binary Multi-View Clustering with Spectral Embedding**<br/>**Zeqi Ma**, Wai Keung Wong, Li-ying Zhang | Neurocomputing | 2023 | [🔗 Code](https://github.com/Mazeqi/BMVC_SE-Neurocomputing) |
 
 ---
 
