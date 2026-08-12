@@ -40,7 +40,7 @@
 | 3 | **Lightweight Contrastive Distilled Hashing for Online Cross-Modal Retrieval**<br/>Jiaxing Li, Lin Jiang, **Zeqi Ma**, Kaihang Jiang, Xiaozhao Fang, Jie Wen | AAAI 2025 | 2025 | — |
 | 4 | **Integrating Local and Global Correlations with Mamba-Transformer for Multi-Class Anomaly Detection**<br/>**Zeqi Ma**, Jiaxing Li, Kaihang Jiang, Wai Keung Wong | Knowledge-Based Systems | 2025 | [🔗 Code](https://github.com/Mazeqi/MTAD-KBS) |
 | 5 | **Binary Multi-View Clustering with Spectral Embedding**<br/>**Zeqi Ma**, Wai Keung Wong, Li-ying Zhang | Neurocomputing | 2023 | [🔗 Code](https://github.com/Mazeqi/BMVC_SE-Neurocomputing) |
-| 6 | **Fine-Grained Enhancement Convolutional Diffusion Transformer for Unsupervised Anomaly Detection**<br/>**Zeqi Ma** | IEEE Transactions on Image Processing | 2026 | [🔗 Code](https://github.com/Mazeqi/FECDTAD) |
+<!-- | 6 | **Fine-Grained Enhancement Convolutional Diffusion Transformer for Unsupervised Anomaly Detection**<br/>**Zeqi Ma** | IEEE Transactions on Image Processing | 2026 | [🔗 Code](https://github.com/Mazeqi/FECDTAD) | -->
 ---
 <!-- ---
 
